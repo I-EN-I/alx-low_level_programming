@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
-* I have main
-* I have the braces and
-* I have the puts function
+* The puts program
+* main function is present
+* The return value is 0
 */
 
 int main(void)
