@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * The program to print/puts a line
- * main - The entry point
+ * main - Entry point
+ *
  * Return: Always 0 (Success)
  */
 
