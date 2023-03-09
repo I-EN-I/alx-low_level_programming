@@ -3,8 +3,6 @@
 /**
  * main - entry point
  *
- * printf: printing out the sizes
- *
  * return: should return zero(0)
  */
 
