@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - beggining
+ * main - entry point
  *
  * printf: printing out the sizes
  *
