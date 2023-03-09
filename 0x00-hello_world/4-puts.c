@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
 * I have main
 * I have the braces and
 * I have the puts function
