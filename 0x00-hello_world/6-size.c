@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 /**
-* main - function
-*
-* printf: printing out sizes
-*
-* return: returning 0
-*/
+ * main - beggining
+ *
+ * printf: printing out the sizes
+ *
+ * return: should return zero(0)
+ */
 
 int main(void)
 {	printf("Size of a char: %d byte(s)\n", sizeof(char));
